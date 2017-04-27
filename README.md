@@ -1,6 +1,6 @@
 # npmtest-cordova-plugin-calendar
 
-#### test coverage for  [cordova-plugin-calendar (v4.5.5)](https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-calendar.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-calendar) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-calendar.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-calendar)
+#### basic test coverage for  [cordova-plugin-calendar (v4.5.5)](https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-calendar.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-calendar) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-calendar.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-calendar)
 
 #### This plugin allows you to manipulate the native calendar.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-cordova-plugin-calendar/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-cordova-plugin-calendar/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-cordova-plugin-calendar/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-cordova-plugin-calendar/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cordova-plugin-calendar/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cordova-plugin-calendar/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-cordova-plugin-calendar/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-cordova-plugin-calendar/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cordova-plugin-calendar/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cordova-plugin-calendar/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-cordova-plugin-calendar/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-cordova-plugin-calendar/build/coverage.html/index.html)
 
@@ -86,7 +86,8 @@
         "url": "git+https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin.git"
     },
     "scripts": {},
-    "version": "4.5.5"
+    "version": "4.5.5",
+    "bin": {}
 }
 ```
 
